@@ -1,0 +1,116 @@
+[2021-09-24 11:43:55,874] INFO     root         
+[2021-09-24 11:43:56,769] INFO     root         Starting web server...
+[2021-09-24 11:44:18,119] INFO     root         Serving GET for index.html
+[2021-09-24 11:44:18,119] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python../web/
+[2021-09-24 11:44:18,120] INFO     root         Sending /index.html - type text/html
+[2021-09-24 11:44:18,120] ERROR    root         /index.html  [Errno 2] No such file or directory: 'e:\\Development\\git\\projects\\personal\\piclock\\src\\python../web//index.html'
+[2021-09-24 11:44:18,183] INFO     root         Serving GET for favicon.ico
+[2021-09-24 11:44:18,183] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python../web/
+[2021-09-24 11:44:18,369] INFO     root         Serving GET for favicon.ico
+[2021-09-24 11:44:18,369] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python../web/
+[2021-09-24 11:44:31,857] INFO     root         
+[2021-09-24 11:44:32,718] INFO     root         Starting web server...
+[2021-09-24 11:44:40,319] INFO     root         Serving GET for index.html
+[2021-09-24 11:45:31,394] INFO     root         
+[2021-09-24 11:45:32,236] INFO     root         Starting web server...
+[2021-09-24 11:45:32,455] INFO     root         Serving GET for index.html
+[2021-09-24 11:45:54,464] INFO     root         
+[2021-09-24 11:45:55,310] INFO     root         Starting web server...
+[2021-09-24 11:45:55,674] INFO     root         Serving GET for index.html
+[2021-09-24 11:45:59,109] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:45:59,110] INFO     root         Sending /index.html - type text/html
+[2021-09-24 11:45:59,136] INFO     root         Serving GET for script/jquery.js
+[2021-09-24 11:45:59,980] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:45:59,981] INFO     root         Sending /script/jquery.js - type application/javascript
+[2021-09-24 11:46:00,025] INFO     root         Serving GET for script/moment.js
+[2021-09-24 11:46:00,618] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:46:00,619] INFO     root         Sending /script/moment.js - type application/javascript
+[2021-09-24 11:46:00,649] INFO     root         Serving GET for font-awesome.min.css
+[2021-09-24 11:46:01,115] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:46:01,115] INFO     root         Sending /font-awesome.min.css - type text/css
+[2021-09-24 11:46:01,123] INFO     root         Serving GET for screen.css
+[2021-09-24 11:46:03,632] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:46:03,632] INFO     root         Sending /screen.css - type text/css
+[2021-09-24 11:46:03,638] INFO     root         Serving GET for script/app.js
+[2021-09-24 11:46:03,640] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:46:03,640] INFO     root         Sending /script/app.js - type application/javascript
+[2021-09-24 11:46:03,965] INFO     root         Serving GET for img/bg-1.jpg
+[2021-09-24 11:46:03,965] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:46:03,966] INFO     root         Sending /img/bg-1.jpg - type image/jpg
+[2021-09-24 11:46:04,221] INFO     root         Serving GET for favicon.ico
+[2021-09-24 11:46:04,221] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:46:51,989] INFO     root         
+[2021-09-24 11:46:52,839] INFO     root         Starting web server...
+[2021-09-24 11:46:52,857] INFO     root         Serving GET for index.html
+[2021-09-24 11:46:52,857] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:46:52,858] INFO     root         Sending /index.html - type text/html
+[2021-09-24 11:46:53,089] INFO     root         Serving GET for font-awesome.min.css
+[2021-09-24 11:46:53,089] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:46:53,089] INFO     root         Sending /font-awesome.min.css - type text/css
+[2021-09-24 11:46:53,091] INFO     root         Serving GET for screen.css
+[2021-09-24 11:46:53,092] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:46:53,092] INFO     root         Sending /screen.css - type text/css
+[2021-09-24 11:46:53,183] INFO     root         Serving GET for script/jquery.js
+[2021-09-24 11:46:53,183] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:46:53,184] INFO     root         Sending /script/jquery.js - type application/javascript
+[2021-09-24 11:46:53,186] INFO     root         Serving GET for script/moment.js
+[2021-09-24 11:46:53,187] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:46:53,188] INFO     root         Sending /script/moment.js - type application/javascript
+[2021-09-24 11:46:53,190] INFO     root         Serving GET for script/app.js
+[2021-09-24 11:46:53,190] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:46:53,191] INFO     root         Sending /script/app.js - type application/javascript
+[2021-09-24 11:46:53,213] INFO     root         Serving GET for img/bg-1.jpg
+[2021-09-24 11:46:53,213] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:46:53,214] INFO     root         Sending /img/bg-1.jpg - type image/jpg
+[2021-09-24 11:46:53,542] INFO     root         Serving GET for favicon.ico
+[2021-09-24 11:46:53,542] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:30,354] INFO     root         
+[2021-09-24 11:47:31,210] INFO     root         Starting web server...
+[2021-09-24 11:47:32,856] INFO     root         Serving GET for index.html
+[2021-09-24 11:47:32,856] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:32,857] INFO     root         Sending /index.html - type text/html
+[2021-09-24 11:47:32,874] INFO     root         Serving GET for script/jquery.js
+[2021-09-24 11:47:32,874] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:32,875] INFO     root         Sending /script/jquery.js - type application/javascript
+[2021-09-24 11:47:33,120] INFO     root         Serving GET for font-awesome.min.css
+[2021-09-24 11:47:33,120] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:33,121] INFO     root         Sending /font-awesome.min.css - type text/css
+[2021-09-24 11:47:33,185] INFO     root         Serving GET for screen.css
+[2021-09-24 11:47:33,185] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:33,186] INFO     root         Sending /screen.css - type text/css
+[2021-09-24 11:47:33,194] INFO     root         Serving GET for script/moment.js
+[2021-09-24 11:47:33,194] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:33,195] INFO     root         Sending /script/moment.js - type application/javascript
+[2021-09-24 11:47:33,197] INFO     root         Serving GET for script/app.js
+[2021-09-24 11:47:33,198] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:33,198] INFO     root         Sending /script/app.js - type application/javascript
+[2021-09-24 11:47:33,530] INFO     root         Serving GET for img/bg-1.jpg
+[2021-09-24 11:47:33,531] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:33,531] INFO     root         Sending /img/bg-1.jpg - type image/jpg
+[2021-09-24 11:47:33,791] INFO     root         Serving GET for favicon.ico
+[2021-09-24 11:47:33,791] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:56,736] INFO     root         
+[2021-09-24 11:47:57,593] INFO     root         Starting web server...
+[2021-09-24 11:47:59,378] INFO     root         Serving GET for index.html
+[2021-09-24 11:47:59,378] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:59,379] INFO     root         Sending /index.html - type text/html
+[2021-09-24 11:47:59,395] INFO     root         Serving GET for script/jquery.js
+[2021-09-24 11:47:59,395] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:59,396] INFO     root         Sending /script/jquery.js - type application/javascript
+[2021-09-24 11:47:59,627] INFO     root         Serving GET for font-awesome.min.css
+[2021-09-24 11:47:59,627] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:59,628] INFO     root         Sending /font-awesome.min.css - type text/css
+[2021-09-24 11:47:59,707] INFO     root         Serving GET for screen.css
+[2021-09-24 11:47:59,707] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:59,708] INFO     root         Sending /screen.css - type text/css
+[2021-09-24 11:47:59,710] INFO     root         Serving GET for script/moment.js
+[2021-09-24 11:47:59,710] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:59,711] INFO     root         Sending /script/moment.js - type application/javascript
+[2021-09-24 11:47:59,713] INFO     root         Serving GET for script/app.js
+[2021-09-24 11:47:59,713] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:47:59,714] INFO     root         Sending /script/app.js - type application/javascript
+[2021-09-24 11:48:00,037] INFO     root         Serving GET for img/bg-1.jpg
+[2021-09-24 11:48:00,038] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 11:48:00,038] INFO     root         Sending /img/bg-1.jpg - type image/jpg
+[2021-09-24 11:48:00,290] INFO     root         Serving GET for favicon.ico
+[2021-09-24 11:48:00,290] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
