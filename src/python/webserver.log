@@ -114,3 +114,247 @@
 [2021-09-24 11:48:00,038] INFO     root         Sending /img/bg-1.jpg - type image/jpg
 [2021-09-24 11:48:00,290] INFO     root         Serving GET for favicon.ico
 [2021-09-24 11:48:00,290] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python\..\web\
+[2021-09-24 15:36:45,763] INFO     root         
+[2021-09-24 15:36:45,776] INFO     root         Starting web server...
+[2021-09-24 15:37:01,348] INFO     root         Serving GET for index.html
+[2021-09-24 15:37:01,349] INFO     root         Running in /home/pi/piclock/src/python\..\web\
+[2021-09-24 15:37:01,351] INFO     root         Sending /index.html - type text/html
+[2021-09-24 15:37:01,352] ERROR    root         /index.html  [Errno 2] No such file or directory: '/home/pi/piclock/src/python\\..\\web\\/index.html'
+[2021-09-24 15:37:01,431] INFO     root         Serving GET for favicon.ico
+[2021-09-24 15:37:01,432] INFO     root         Running in /home/pi/piclock/src/python\..\web\
+[2021-09-24 15:37:01,453] INFO     root         Serving GET for favicon.ico
+[2021-09-24 15:37:01,454] INFO     root         Running in /home/pi/piclock/src/python\..\web\
+[2021-09-24 15:37:08,897] ERROR    root         Shutting down the web server
+[2021-09-24 15:37:57,581] INFO     root         
+[2021-09-24 15:37:57,591] INFO     root         Starting web server...
+[2021-09-24 15:37:59,666] INFO     root         Serving GET for index.html
+[2021-09-24 15:37:59,667] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:37:59,669] INFO     root         Sending /index.html - type text/html
+[2021-09-24 15:37:59,688] INFO     root         Serving GET for script/jquery.js
+[2021-09-24 15:37:59,690] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:37:59,691] INFO     root         Sending /script/jquery.js - type application/javascript
+[2021-09-24 15:37:59,719] INFO     root         Serving GET for font-awesome.min.css
+[2021-09-24 15:37:59,720] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:37:59,721] INFO     root         Sending /font-awesome.min.css - type text/css
+[2021-09-24 15:37:59,726] INFO     root         Serving GET for screen.css
+[2021-09-24 15:37:59,727] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:37:59,729] INFO     root         Sending /screen.css - type text/css
+[2021-09-24 15:37:59,733] INFO     root         Serving GET for script/moment.js
+[2021-09-24 15:37:59,734] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:37:59,735] INFO     root         Sending /script/moment.js - type application/javascript
+[2021-09-24 15:37:59,740] INFO     root         Serving GET for script/app.js
+[2021-09-24 15:37:59,741] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:37:59,742] INFO     root         Sending /script/app.js - type application/javascript
+[2021-09-24 15:37:59,918] INFO     root         Serving GET for img/bg-1.jpg
+[2021-09-24 15:37:59,919] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:37:59,920] INFO     root         Sending /img/bg-1.jpg - type image/jpg
+[2021-09-24 15:37:59,957] INFO     root         Serving GET for favicon.ico
+[2021-09-24 15:37:59,958] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:38:05,936] ERROR    root         Shutting down the web server
+[2021-09-24 15:52:59,351] INFO     root         
+[2021-09-24 15:52:59,364] INFO     root         Starting web server...
+[2021-09-24 15:53:03,014] ERROR    root         Shutting down the web server
+[2021-09-24 15:57:00,948] INFO     root         
+[2021-09-24 15:57:00,970] INFO     root         Starting web server...
+[2021-09-24 15:57:04,848] INFO     root         Serving GET for index.html
+[2021-09-24 15:57:04,849] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:57:04,851] INFO     root         Sending /index.html - type text/html
+[2021-09-24 15:57:05,053] INFO     root         Serving GET for script/jquery.js
+[2021-09-24 15:57:05,054] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:57:05,056] INFO     root         Sending /script/jquery.js - type application/javascript
+[2021-09-24 15:57:05,088] INFO     root         Serving GET for script/moment.js
+[2021-09-24 15:57:05,089] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:57:05,090] INFO     root         Sending /script/moment.js - type application/javascript
+[2021-09-24 15:57:05,100] INFO     root         Serving GET for font-awesome.min.css
+[2021-09-24 15:57:05,101] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:57:05,103] INFO     root         Sending /font-awesome.min.css - type text/css
+[2021-09-24 15:57:05,111] INFO     root         Serving GET for screen.css
+[2021-09-24 15:57:05,113] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:57:05,115] INFO     root         Sending /screen.css - type text/css
+[2021-09-24 15:57:05,118] INFO     root         Serving GET for script/app.js
+[2021-09-24 15:57:05,119] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:57:05,120] INFO     root         Sending /script/app.js - type application/javascript
+[2021-09-24 15:57:05,522] INFO     root         Serving GET for img/bg-1.jpg
+[2021-09-24 15:57:05,525] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:57:05,527] INFO     root         Sending /img/bg-1.jpg - type image/jpg
+[2021-09-24 15:57:05,607] INFO     root         Serving GET for favicon.ico
+[2021-09-24 15:57:05,609] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 15:57:18,333] ERROR    root         Shutting down the web server
+[2021-09-24 16:02:44,101] INFO     root         
+[2021-09-24 16:02:44,115] INFO     root         Starting web server...
+[2021-09-24 16:02:57,925] INFO     root         Serving GET for index.html
+[2021-09-24 16:02:57,926] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 16:02:57,928] INFO     root         Sending /index.html - type text/html
+[2021-09-24 16:02:58,107] INFO     root         Serving GET for script/jquery.js
+[2021-09-24 16:02:58,107] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 16:02:58,109] INFO     root         Sending /script/jquery.js - type application/javascript
+[2021-09-24 16:02:58,138] INFO     root         Serving GET for script/moment.js
+[2021-09-24 16:02:58,139] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 16:02:58,140] INFO     root         Sending /script/moment.js - type application/javascript
+[2021-09-24 16:02:58,151] INFO     root         Serving GET for font-awesome.min.css
+[2021-09-24 16:02:58,152] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 16:02:58,153] INFO     root         Sending /font-awesome.min.css - type text/css
+[2021-09-24 16:02:58,159] INFO     root         Serving GET for screen.css
+[2021-09-24 16:02:58,160] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 16:02:58,161] INFO     root         Sending /screen.css - type text/css
+[2021-09-24 16:02:58,168] INFO     root         Serving GET for script/app.js
+[2021-09-24 16:02:58,169] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 16:02:58,171] INFO     root         Sending /script/app.js - type application/javascript
+[2021-09-24 16:02:58,416] INFO     root         Serving GET for img/bg-1.jpg
+[2021-09-24 16:02:58,417] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 16:02:58,418] INFO     root         Sending /img/bg-1.jpg - type image/jpg
+[2021-09-24 16:02:58,522] INFO     root         Serving GET for favicon.ico
+[2021-09-24 16:02:58,523] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 16:05:07,023] ERROR    root         Shutting down the web server
+[2021-09-24 18:31:39,532] INFO     root         
+[2021-09-24 18:31:39,546] INFO     root         Starting web server...
+[2021-09-24 18:33:13,386] INFO     root         
+[2021-09-24 18:33:13,401] INFO     root         Starting web server...
+[2021-09-24 18:33:21,135] INFO     root         Serving GET for index.html
+[2021-09-24 18:33:21,136] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 18:33:21,138] INFO     root         Sending /index.html - type text/html
+[2021-09-24 18:33:22,404] INFO     root         Serving GET for script/jquery.js
+[2021-09-24 18:33:22,405] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 18:33:22,407] INFO     root         Sending /script/jquery.js - type application/javascript
+[2021-09-24 18:33:22,417] INFO     root         Serving GET for script/moment.js
+[2021-09-24 18:33:22,419] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 18:33:22,420] INFO     root         Sending /script/moment.js - type application/javascript
+[2021-09-24 18:33:22,458] INFO     root         Serving GET for font-awesome.min.css
+[2021-09-24 18:33:22,459] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 18:33:22,460] INFO     root         Sending /font-awesome.min.css - type text/css
+[2021-09-24 18:33:22,470] INFO     root         Serving GET for screen.css
+[2021-09-24 18:33:22,471] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 18:33:22,472] INFO     root         Sending /screen.css - type text/css
+[2021-09-24 18:33:22,479] INFO     root         Serving GET for script/app.js
+[2021-09-24 18:33:22,480] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 18:33:22,481] INFO     root         Sending /script/app.js - type application/javascript
+[2021-09-24 18:33:22,750] INFO     root         Serving GET for img/bg-1.jpg
+[2021-09-24 18:33:22,751] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 18:33:22,752] INFO     root         Sending /img/bg-1.jpg - type image/jpg
+[2021-09-24 18:33:22,956] INFO     root         Serving GET for favicon.ico
+[2021-09-24 18:33:22,957] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:13:39,188] INFO     root         
+[2021-09-24 21:13:39,205] INFO     root         Starting web server...
+[2021-09-24 21:13:46,975] INFO     root         Serving GET for index.html
+[2021-09-24 21:13:46,976] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:13:46,976] INFO     root         Sending /index.html - type text/html
+[2021-09-24 21:13:48,247] INFO     root         Serving GET for script/jquery.js
+[2021-09-24 21:13:48,250] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:13:48,252] INFO     root         Sending /script/jquery.js - type application/javascript
+[2021-09-24 21:13:48,262] INFO     root         Serving GET for script/moment.js
+[2021-09-24 21:13:48,264] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:13:48,265] INFO     root         Sending /script/moment.js - type application/javascript
+[2021-09-24 21:13:48,296] INFO     root         Serving GET for font-awesome.min.css
+[2021-09-24 21:13:48,297] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:13:48,297] INFO     root         Sending /font-awesome.min.css - type text/css
+[2021-09-24 21:13:48,306] INFO     root         Serving GET for screen.css
+[2021-09-24 21:13:48,307] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:13:48,308] INFO     root         Sending /screen.css - type text/css
+[2021-09-24 21:13:48,311] INFO     root         Serving GET for script/app.js
+[2021-09-24 21:13:48,312] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:13:48,313] INFO     root         Sending /script/app.js - type application/javascript
+[2021-09-24 21:13:48,571] INFO     root         Serving GET for img/bg-1.jpg
+[2021-09-24 21:13:48,572] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:13:48,573] INFO     root         Sending /img/bg-1.jpg - type image/jpg
+[2021-09-24 21:13:48,667] INFO     root         Serving GET for favicon.ico
+[2021-09-24 21:13:48,668] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:20:05,588] INFO     root         
+[2021-09-24 21:20:05,603] INFO     root         Starting web server...
+[2021-09-24 21:20:13,478] INFO     root         Serving GET for index.html
+[2021-09-24 21:20:13,479] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:20:13,481] INFO     root         Sending /index.html - type text/html
+[2021-09-24 21:20:14,611] INFO     root         Serving GET for script/jquery.js
+[2021-09-24 21:20:14,612] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:20:14,613] INFO     root         Sending /script/jquery.js - type application/javascript
+[2021-09-24 21:20:14,648] INFO     root         Serving GET for script/moment.js
+[2021-09-24 21:20:14,649] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:20:14,651] INFO     root         Sending /script/moment.js - type application/javascript
+[2021-09-24 21:20:14,658] INFO     root         Serving GET for font-awesome.min.css
+[2021-09-24 21:20:14,660] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:20:14,662] INFO     root         Sending /font-awesome.min.css - type text/css
+[2021-09-24 21:20:14,667] INFO     root         Serving GET for screen.css
+[2021-09-24 21:20:14,669] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:20:14,670] INFO     root         Sending /screen.css - type text/css
+[2021-09-24 21:20:14,676] INFO     root         Serving GET for script/app.js
+[2021-09-24 21:20:14,677] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:20:14,678] INFO     root         Sending /script/app.js - type application/javascript
+[2021-09-24 21:20:14,969] INFO     root         Serving GET for img/bg-1.jpg
+[2021-09-24 21:20:14,971] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:20:14,972] INFO     root         Sending /img/bg-1.jpg - type image/jpg
+[2021-09-24 21:20:15,083] INFO     root         Serving GET for favicon.ico
+[2021-09-24 21:20:15,084] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:23:47,683] INFO     root         
+[2021-09-24 21:23:47,701] INFO     root         Starting web server...
+[2021-09-24 21:23:55,452] INFO     root         Serving GET for index.html
+[2021-09-24 21:23:55,453] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:23:55,454] INFO     root         Sending /index.html - type text/html
+[2021-09-24 21:23:56,741] INFO     root         Serving GET for script/jquery.js
+[2021-09-24 21:23:56,743] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:23:56,744] INFO     root         Sending /script/jquery.js - type application/javascript
+[2021-09-24 21:23:56,775] INFO     root         Serving GET for script/moment.js
+[2021-09-24 21:23:56,776] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:23:56,777] INFO     root         Sending /script/moment.js - type application/javascript
+[2021-09-24 21:23:56,790] INFO     root         Serving GET for font-awesome.min.css
+[2021-09-24 21:23:56,791] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:23:56,793] INFO     root         Sending /font-awesome.min.css - type text/css
+[2021-09-24 21:23:56,813] INFO     root         Serving GET for screen.css
+[2021-09-24 21:23:56,814] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:23:56,815] INFO     root         Sending /screen.css - type text/css
+[2021-09-24 21:23:56,823] INFO     root         Serving GET for script/app.js
+[2021-09-24 21:23:56,825] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:23:56,826] INFO     root         Sending /script/app.js - type application/javascript
+[2021-09-24 21:23:57,080] INFO     root         Serving GET for img/bg-1.jpg
+[2021-09-24 21:23:57,081] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-24 21:23:57,082] INFO     root         Sending /img/bg-1.jpg - type image/jpg
+[2021-09-24 21:23:57,165] INFO     root         Serving GET for favicon.ico
+[2021-09-24 21:23:57,167] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-25 22:17:24,100] INFO     root         
+[2021-09-25 22:17:24,117] INFO     root         Starting web server...
+[2021-09-25 22:17:32,038] INFO     root         Serving GET for index.html
+[2021-09-25 22:17:32,039] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-25 22:17:32,040] INFO     root         Sending /index.html - type text/html
+[2021-09-25 22:17:33,221] INFO     root         Serving GET for script/jquery.js
+[2021-09-25 22:17:33,222] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-25 22:17:33,223] INFO     root         Sending /script/jquery.js - type application/javascript
+[2021-09-25 22:17:33,242] INFO     root         Serving GET for script/moment.js
+[2021-09-25 22:17:33,243] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-25 22:17:33,245] INFO     root         Sending /script/moment.js - type application/javascript
+[2021-09-25 22:17:33,262] INFO     root         Serving GET for font-awesome.min.css
+[2021-09-25 22:17:33,263] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-25 22:17:33,264] INFO     root         Sending /font-awesome.min.css - type text/css
+[2021-09-25 22:17:33,274] INFO     root         Serving GET for screen.css
+[2021-09-25 22:17:33,275] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-25 22:17:33,277] INFO     root         Sending /screen.css - type text/css
+[2021-09-25 22:17:33,287] INFO     root         Serving GET for script/app.js
+[2021-09-25 22:17:33,289] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-25 22:17:33,291] INFO     root         Sending /script/app.js - type application/javascript
+[2021-09-25 22:17:33,555] INFO     root         Serving GET for img/bg-1.jpg
+[2021-09-25 22:17:33,556] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-09-25 22:17:33,557] INFO     root         Sending /img/bg-1.jpg - type image/jpg
+[2021-09-25 22:17:33,668] INFO     root         Serving GET for favicon.ico
+[2021-09-25 22:17:33,669] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-12-02 15:54:34,596] INFO     root         
+[2021-12-02 15:54:34,615] INFO     root         Starting web server...
+[2021-12-02 15:54:42,553] INFO     root         Serving GET for index.html
+[2021-12-02 15:54:42,555] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-12-02 15:54:42,556] INFO     root         Sending /index.html - type text/html
+[2021-12-02 15:54:43,773] INFO     root         Serving GET for script/jquery.js
+[2021-12-02 15:54:43,774] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-12-02 15:54:43,776] INFO     root         Sending /script/jquery.js - type application/javascript
+[2021-12-02 15:54:43,813] INFO     root         Serving GET for script/moment.js
+[2021-12-02 15:54:43,814] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-12-02 15:54:43,815] INFO     root         Sending /script/moment.js - type application/javascript
+[2021-12-02 15:54:43,825] INFO     root         Serving GET for font-awesome.min.css
+[2021-12-02 15:54:43,826] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-12-02 15:54:43,828] INFO     root         Sending /font-awesome.min.css - type text/css
+[2021-12-02 15:54:43,834] INFO     root         Serving GET for screen.css
+[2021-12-02 15:54:43,835] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-12-02 15:54:43,836] INFO     root         Sending /screen.css - type text/css
+[2021-12-02 15:54:43,847] INFO     root         Serving GET for script/app.js
+[2021-12-02 15:54:43,848] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-12-02 15:54:43,849] INFO     root         Sending /script/app.js - type application/javascript
+[2021-12-02 15:54:44,174] INFO     root         Serving GET for img/bg-1.jpg
+[2021-12-02 15:54:44,178] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2021-12-02 15:54:44,180] INFO     root         Sending /img/bg-1.jpg - type image/jpg
+[2021-12-02 15:54:44,252] INFO     root         Serving GET for favicon.ico
+[2021-12-02 15:54:44,253] INFO     root         Running in /home/pi/piclock/src/python/../web/

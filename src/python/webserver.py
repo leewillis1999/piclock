@@ -14,7 +14,7 @@ class  web_server(BaseHTTPRequestHandler):
 
 		try:
 			reply = False
-			path = os.path.dirname(os.path.realpath(__file__)) + "\\..\\web\\"	#go down a level, then back to web
+			path = os.path.dirname(os.path.realpath(__file__)) + "/../web/"	#go down a level, then back to web
 			logging.info ("Running in " + path)
 
 			if "/api" in self.path:
