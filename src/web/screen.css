@@ -6,11 +6,13 @@ html, body{
 }
 
 .display {
+    z-index: 99;
     box-sizing: border-box;
     height:480px;
     width:800px;
-    
-    background-image: url("img/bg-1.jpg");
+
+    /*background-color: black;*/
+    background-image: url("img/bg-2.jpg");
     background-repeat: no-repeat;
     background-position: top left;
 
@@ -39,6 +41,7 @@ html, body{
 }
 
 .time{
+    
     color: white;
     opacity: 0.8;
     grid-column-start: 2;

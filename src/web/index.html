@@ -31,19 +31,30 @@
       <link href="screen.css"
             rel="stylesheet">
 
-      <script src="script/app.js">
-      </script>
+      <script src="script/snowstorm-min.js"></script>
+      <script src="script/app.js"></script>
+
+
 </head>
 
 <body>
 
-
-
-      <div class="display">
-
+      <div class="display"
+           id="snowel">
             <div class="date"></div>
             <div class="time"></div>
       </div>
+
+      <script>
+            snowStorm.useTwinkleEffect = true;
+            snowStorm.useMeltEffect = false;
+            snowStorm.flakeBottom = null;
+            snowStorm.flakesMax = 256;
+            snowStorm.snowStick = true;
+            snowStorm.followMouse = false;
+            snowStorm.targetElement = "snowel"
+      </script>
+
 </body>
 
 </html>
