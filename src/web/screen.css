@@ -12,14 +12,16 @@ html, body{
     width:800px;
 
     /*background-color: black;*/
-    background-image: url("img/bg-2.jpg");
+    /*background-image: url("img/bg-2.jpg");*/
+    background-image: url("img/bg-3.gif");
     background-repeat: no-repeat;
-    background-position: top left;
+    background-position: bottom left;
 
     display:grid;
 
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 60px auto 60px;
+    /*grid-template-rows: 60px auto 60px;*/
+    grid-template-rows: 15px 275px auto;
 
     column-gap: 5px;
     row-gap: 5px;
@@ -52,4 +54,23 @@ html, body{
     /* put the time in the center */
     display:grid;
     place-items: center;
+}
+
+.time-analog{
+    
+    /*color: white;*/
+    /*opacity: 0.8;*/
+    grid-column-start: 1;
+    grid-row-start: 2;
+    
+
+    /*font-size:160px;*/
+
+    /* put the time in the center */
+    /*display:grid;*/
+    /*place-items: center;*/
+    height:225px;
+    width:225px;
+    border:2px solid #ccc;
+    border-radius: 15px;
 }
