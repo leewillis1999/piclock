@@ -18,7 +18,7 @@ let htmlclock = (function clock(window, document) {
     let size = 0;       // this will be the smallest of the width / height
     let padding = 20;   // this is how far "inside" the element we draw
     let radius = 0;     //this will be set in the initialise
-    let lineThickness = 6;
+    let lineThickness = 10;
 
     let sintable = {};
     let costable = {};
@@ -185,7 +185,7 @@ let htmlclock = (function clock(window, document) {
 
     this.drawClockFace = function () {
 
-        this.ctx.font = "24px 'Mountains of Christmas', cursive";
+        this.ctx.font = "30px 'Mountains of Christmas', cursive";
         for (let m = 1; m <= 60; m++) {
             //if we';'re on an hour bit, draw the number, else draw a tick
             if (m % 5 == 0) {
