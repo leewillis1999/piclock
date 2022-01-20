@@ -12,16 +12,17 @@ html, body{
     width:800px;
 
     /*background-color: black;*/
-    background-image: url("img/bg-2.jpg");
+    background-image: url("img/bg-winter-2.jpg");
+    /* filter:blur(2px); */
     /*background-image: url("img/bg-3.gif");*/
     background-repeat: no-repeat;
     background-position: bottom left;
 
     display:grid;
 
-    grid-template-columns: auto 375px auto;
+    grid-template-columns: 212px 375px 212px;
     /*grid-template-rows: 60px auto 60px;*/
-    grid-template-rows: auto auto;
+    grid-template-rows: auto 375px auto;
 
     column-gap: 5px;
     row-gap: 5px;
@@ -29,40 +30,31 @@ html, body{
     justify-items: center;
 }
 
+.date-dayName, .date-dayNumber{
+    font-size:75px;
+    color: #fff;
 
-.date{
-
-    padding-top:5px;
-    color: white;
-    opacity: 0.8;
-
-    grid-column-start: 2;
-    grid-row-start: 1;
-
-    font-size:50px;
+    display: grid;
+    place-items: center;
+}
+.date-dayName{
+    grid-column: 1;
+    grid-row: 2;
 }
 
-.time{
-    
-    color: white;
-    opacity: 0.8;
-    grid-column-start: 2;
-    grid-row-start: 2;
-
-    font-size:160px;
-
-    /* put the time in the center */
-    display:grid;
-    place-items: center;
+.date-dayNumber{
+    grid-column: 3;
+    grid-row: 2;
 }
 
 .time-analog{
     
-    grid-column-start: 2;
-    grid-row-start: 3;
+    grid-column: 2;
+    grid-row: 2;
     
-    height:350px;
-    width:350px;
+    height:375px;
+    width:375px;
     border:5px solid #ccc;
     border-radius: 15px;
+
 }

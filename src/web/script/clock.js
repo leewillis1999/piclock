@@ -20,6 +20,15 @@ let htmlclock = (function clock(window, document) {
     let radius = 0;     //this will be set in the initialise
     let lineThickness = 10;
 
+    let minuteHandColour = "#ddd";
+    let hourHandColour = "#ddd";
+    let secondHandColour = "red";
+    let centerFillColour = "#aaa";
+    let centerStrokeStyle = "#000";
+    let hourColour = "#ccc";
+    let tickColour = "#ddd";
+    let faceFont = "30px 'Mountains of Christmas', cursive";
+
     let sintable = {};
     let costable = {};
 
@@ -47,6 +56,7 @@ let htmlclock = (function clock(window, document) {
         this.container.appendChild(this.canvas);
         //this.canvas.style.backgroundColor = this.container.style.backgroundColor;
         this.canvas.style.position = "absolute";
+        //this.canvas.style.filter = "blur(8px)";
         this.onResize();
 
         this.ctx = this.canvas.getContext("2d");
@@ -105,7 +115,7 @@ let htmlclock = (function clock(window, document) {
         this.ctx.lineWidth = lineThickness;
 
         //minute and hour hands are grey
-        this.ctx.strokeStyle = "#ddd";
+        this.ctx.strokeStyle = hourHandColour;
 
         //draw the hour hand - todo add the minute offset part
         this.ctx.beginPath();
@@ -119,7 +129,7 @@ let htmlclock = (function clock(window, document) {
         this.ctx.stroke();
 
         this.ctx.beginPath();
-        this.ctx.fillStyle = "#ddd";
+        this.ctx.fillStyle = hourHandColour;
         this.ctx.arc(hx, hy, lineThickness / 2, 0, 2 * Math.PI);
         this.ctx.fill();
 
@@ -135,7 +145,7 @@ let htmlclock = (function clock(window, document) {
         this.ctx.stroke();
 
         this.ctx.beginPath();
-        this.ctx.fillStyle = "#ddd";
+        this.ctx.fillStyle = minuteHandColour;
         this.ctx.arc(mx, my, lineThickness / 2, 0, 2 * Math.PI);
         this.ctx.fill();
 
@@ -148,11 +158,11 @@ let htmlclock = (function clock(window, document) {
         let sx = this.offsetx(this.sin(sd) * sr);
         let sy = this.offsety(this.cos(sd) * sr);
         this.ctx.lineTo(sx, sy);
-        this.ctx.strokeStyle = "red";
+        this.ctx.strokeStyle = secondHandColour;
         this.ctx.stroke();
 
         this.ctx.beginPath();
-        this.ctx.fillStyle = "red";
+        this.ctx.fillStyle = secondHandColour;
         this.ctx.arc(sx, sy, lineThickness / 2, 0, 2 * Math.PI);
         this.ctx.fill();
 
@@ -160,9 +170,9 @@ let htmlclock = (function clock(window, document) {
         this.ctx.lineWidth = 1;
         this.ctx.beginPath();
         this.ctx.arc(this.offsetx(0), this.offsety(0), 6, 0, 2 * Math.PI, true);
-        this.ctx.fillStyle = "#aaa";
+        this.ctx.fillStyle = centerFillColour;
         this.ctx.fill();
-        this.ctx.strokeStyle = "#000";
+        this.ctx.strokeStyle = centerStrokeStyle;
         this.ctx.stroke();
 
         requestAnimationFrame(this.drawTime);
@@ -185,7 +195,7 @@ let htmlclock = (function clock(window, document) {
 
     this.drawClockFace = function () {
 
-        this.ctx.font = "30px 'Mountains of Christmas', cursive";
+        this.ctx.font = faceFont;
         for (let m = 1; m <= 60; m++) {
             //if we';'re on an hour bit, draw the number, else draw a tick
             if (m % 5 == 0) {
@@ -193,7 +203,7 @@ let htmlclock = (function clock(window, document) {
                 let deg = this.deg2rad(180.0 - (h * 30));
                 let x = this.offsetx(this.sin(deg) * this.radius);
                 let y = this.offsety(this.cos(deg) * this.radius);
-                this.ctx.fillStyle = "#ccc";
+                this.ctx.fillStyle = hourColour;
                 this.ctx.fillText(h, x - 6.0, y + 6.0);
             } else {
                 let h = m;
@@ -203,7 +213,7 @@ let htmlclock = (function clock(window, document) {
 
                 this.ctx.beginPath();
                 this.ctx.arc(x, y, 1, 0, 2 * Math.PI, true);
-                this.ctx.fillStyle = "#555";
+                this.ctx.fillStyle = tickColour;
                 this.ctx.fill();
             }
         }

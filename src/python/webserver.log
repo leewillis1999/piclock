@@ -832,3 +832,1262 @@
 [2021-12-14 21:17:34,817] INFO     root         Sending /img/bg-2.jpg - type image/jpg
 [2021-12-14 21:17:35,609] INFO     root         Serving GET for favicon.ico
 [2021-12-14 21:17:35,610] INFO     root         Running in /home/pi/piclock/src/python/../web/
+[2022-01-05 18:51:13,196] INFO     root         
+[2022-01-05 18:51:14,240] INFO     root         Starting web server...
+[2022-01-05 18:51:27,830] INFO     root         Serving GET for index.html
+[2022-01-05 18:51:27,830] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:27,834] INFO     root         Sending /index.html - type text/html
+[2022-01-05 18:51:27,868] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 18:51:27,868] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:27,869] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 18:51:28,103] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 18:51:28,103] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:28,104] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 18:51:28,181] INFO     root         Serving GET for screen.css
+[2022-01-05 18:51:28,181] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:28,182] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 18:51:28,189] INFO     root         Serving GET for script/moment.js
+[2022-01-05 18:51:28,189] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:28,190] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 18:51:28,226] INFO     root         Serving GET for script/clock.js
+[2022-01-05 18:51:28,226] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:28,228] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 18:51:28,255] INFO     root         Serving GET for script/app.js
+[2022-01-05 18:51:28,255] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:28,256] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 18:51:28,587] INFO     root         Serving GET for img/winter.jpg
+[2022-01-05 18:51:28,587] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:28,588] INFO     root         Sending /img/winter.jpg - type image/jpg
+[2022-01-05 18:51:28,589] ERROR    root         /img/winter.jpg  [Errno 2] No such file or directory: 'e:\\Development\\git\\projects\\personal\\piclock\\src\\python/../web//img/winter.jpg'
+[2022-01-05 18:51:28,851] INFO     root         Serving GET for favicon.ico
+[2022-01-05 18:51:28,852] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:42,479] INFO     root         Serving GET for index.html
+[2022-01-05 18:51:42,480] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:42,480] INFO     root         Sending /index.html - type text/html
+[2022-01-05 18:51:42,790] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 18:51:42,790] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:42,792] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 18:51:42,807] INFO     root         Serving GET for screen.css
+[2022-01-05 18:51:42,807] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:42,808] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 18:51:42,815] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 18:51:42,815] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:42,816] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 18:51:42,818] INFO     root         Serving GET for script/moment.js
+[2022-01-05 18:51:42,819] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:42,820] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 18:51:42,822] INFO     root         Serving GET for script/clock.js
+[2022-01-05 18:51:42,823] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:42,824] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 18:51:42,826] INFO     root         Serving GET for script/app.js
+[2022-01-05 18:51:42,826] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:42,827] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 18:51:43,181] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 18:51:43,182] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:51:43,182] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 18:51:43,429] INFO     root         Serving GET for favicon.ico
+[2022-01-05 18:51:43,429] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:30,263] INFO     root         Serving GET for index.html
+[2022-01-05 18:53:30,263] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:30,264] INFO     root         Sending /index.html - type text/html
+[2022-01-05 18:53:30,286] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 18:53:30,286] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:30,287] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 18:53:30,530] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 18:53:30,530] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:30,530] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 18:53:30,595] INFO     root         Serving GET for screen.css
+[2022-01-05 18:53:30,595] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:30,595] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 18:53:30,597] INFO     root         Serving GET for script/moment.js
+[2022-01-05 18:53:30,597] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:30,598] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 18:53:30,600] INFO     root         Serving GET for script/clock.js
+[2022-01-05 18:53:30,600] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:30,601] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 18:53:30,616] INFO     root         Serving GET for script/app.js
+[2022-01-05 18:53:30,617] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:30,617] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 18:53:30,943] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 18:53:30,944] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:30,944] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 18:53:31,210] INFO     root         Serving GET for favicon.ico
+[2022-01-05 18:53:31,210] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:42,033] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 18:53:42,033] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:42,034] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 18:53:42,350] INFO     root         Serving GET for screen.css
+[2022-01-05 18:53:42,350] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:42,350] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 18:53:42,415] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 18:53:42,415] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:55,850] INFO     root         Serving GET for index.html
+[2022-01-05 18:53:55,850] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:55,850] INFO     root         Sending /index.html - type text/html
+[2022-01-05 18:53:55,877] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 18:53:55,878] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:55,879] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 18:53:56,100] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 18:53:56,100] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:56,101] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 18:53:56,195] INFO     root         Serving GET for screen.css
+[2022-01-05 18:53:56,195] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:56,196] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 18:53:56,198] INFO     root         Serving GET for script/moment.js
+[2022-01-05 18:53:56,199] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:56,199] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 18:53:56,201] INFO     root         Serving GET for script/clock.js
+[2022-01-05 18:53:56,202] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:56,203] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 18:53:56,219] INFO     root         Serving GET for script/app.js
+[2022-01-05 18:53:56,219] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:56,220] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 18:53:56,541] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 18:53:56,541] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:56,542] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 18:53:56,546] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 18:53:56,546] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:53:56,810] INFO     root         Serving GET for favicon.ico
+[2022-01-05 18:53:56,810] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:05,158] INFO     root         Serving GET for index.html
+[2022-01-05 18:54:05,159] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:05,160] INFO     root         Sending /index.html - type text/html
+[2022-01-05 18:54:05,458] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 18:54:05,459] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:05,460] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 18:54:05,488] INFO     root         Serving GET for screen.css
+[2022-01-05 18:54:05,489] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:05,489] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 18:54:05,493] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 18:54:05,494] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:05,495] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 18:54:05,497] INFO     root         Serving GET for script/moment.js
+[2022-01-05 18:54:05,497] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:05,498] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 18:54:05,501] INFO     root         Serving GET for script/clock.js
+[2022-01-05 18:54:05,501] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:05,502] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 18:54:05,519] INFO     root         Serving GET for script/app.js
+[2022-01-05 18:54:05,519] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:05,520] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 18:54:05,866] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 18:54:05,866] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:05,867] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 18:54:05,870] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 18:54:05,871] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:06,123] INFO     root         Serving GET for favicon.ico
+[2022-01-05 18:54:06,124] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:17,690] INFO     root         Serving GET for index.html
+[2022-01-05 18:54:17,690] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:17,691] INFO     root         Sending /index.html - type text/html
+[2022-01-05 18:54:17,997] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 18:54:17,998] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:17,998] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 18:54:18,030] INFO     root         Serving GET for screen.css
+[2022-01-05 18:54:18,030] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:18,031] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 18:54:18,032] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 18:54:18,032] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:18,033] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 18:54:18,035] INFO     root         Serving GET for script/moment.js
+[2022-01-05 18:54:18,036] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:18,036] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 18:54:18,039] INFO     root         Serving GET for script/clock.js
+[2022-01-05 18:54:18,039] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:18,041] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 18:54:18,058] INFO     root         Serving GET for script/app.js
+[2022-01-05 18:54:18,059] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:18,060] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 18:54:18,391] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 18:54:18,391] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:18,392] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 18:54:18,395] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 18:54:18,396] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:18,654] INFO     root         Serving GET for favicon.ico
+[2022-01-05 18:54:18,654] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:36,690] INFO     root         Serving GET for index.html
+[2022-01-05 18:54:36,690] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:36,691] INFO     root         Sending /index.html - type text/html
+[2022-01-05 18:54:37,001] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 18:54:37,001] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:37,002] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 18:54:37,038] INFO     root         Serving GET for script/app.js
+[2022-01-05 18:54:37,039] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:37,040] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 18:54:37,043] INFO     root         Serving GET for script/clock.js
+[2022-01-05 18:54:37,043] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:37,044] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 18:54:37,060] INFO     root         Serving GET for script/moment.js
+[2022-01-05 18:54:37,061] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:37,062] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 18:54:37,064] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 18:54:37,065] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:37,066] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 18:54:37,068] INFO     root         Serving GET for screen.css
+[2022-01-05 18:54:37,069] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:37,069] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 18:54:37,425] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 18:54:37,425] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:37,426] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 18:54:37,428] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 18:54:37,429] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:54:37,673] INFO     root         Serving GET for favicon.ico
+[2022-01-05 18:54:37,674] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:56:50,785] INFO     root         Serving GET for index.html
+[2022-01-05 18:56:50,785] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:56:50,786] INFO     root         Sending /index.html - type text/html
+[2022-01-05 18:56:50,813] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 18:56:50,813] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:56:50,815] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 18:56:51,031] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 18:56:51,032] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:56:51,032] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 18:56:51,127] INFO     root         Serving GET for screen.css
+[2022-01-05 18:56:51,128] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:56:51,128] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 18:56:51,130] INFO     root         Serving GET for script/moment.js
+[2022-01-05 18:56:51,131] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:56:51,131] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 18:56:51,133] INFO     root         Serving GET for script/clock.js
+[2022-01-05 18:56:51,134] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:56:51,135] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 18:56:51,152] INFO     root         Serving GET for script/app.js
+[2022-01-05 18:56:51,152] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:56:51,153] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 18:56:51,470] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 18:56:51,470] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:56:51,470] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 18:56:51,496] INFO     root         Serving GET for favicon.ico
+[2022-01-05 18:56:51,496] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:56:51,736] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 18:56:51,736] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:01,327] INFO     root         Serving GET for index.html
+[2022-01-05 18:59:01,328] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:01,328] INFO     root         Sending /index.html - type text/html
+[2022-01-05 18:59:01,351] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 18:59:01,352] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:01,353] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 18:59:01,581] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 18:59:01,581] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:01,581] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 18:59:01,660] INFO     root         Serving GET for screen.css
+[2022-01-05 18:59:01,660] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:01,661] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 18:59:01,663] INFO     root         Serving GET for script/moment.js
+[2022-01-05 18:59:01,663] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:01,664] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 18:59:01,665] INFO     root         Serving GET for script/clock.js
+[2022-01-05 18:59:01,666] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:01,667] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 18:59:01,684] INFO     root         Serving GET for script/app.js
+[2022-01-05 18:59:01,684] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:01,685] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 18:59:01,998] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 18:59:01,999] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:01,999] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 18:59:02,014] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 18:59:02,014] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:02,325] INFO     root         Serving GET for favicon.ico
+[2022-01-05 18:59:02,326] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:16,438] INFO     root         Serving GET for index.html
+[2022-01-05 18:59:16,438] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:16,439] INFO     root         Sending /index.html - type text/html
+[2022-01-05 18:59:16,747] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 18:59:16,747] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:16,748] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 18:59:16,779] INFO     root         Serving GET for screen.css
+[2022-01-05 18:59:16,780] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:16,780] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 18:59:16,788] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 18:59:16,788] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:16,789] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 18:59:16,791] INFO     root         Serving GET for script/moment.js
+[2022-01-05 18:59:16,792] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:16,793] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 18:59:16,796] INFO     root         Serving GET for script/clock.js
+[2022-01-05 18:59:16,796] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:16,797] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 18:59:16,800] INFO     root         Serving GET for script/app.js
+[2022-01-05 18:59:16,800] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:16,801] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 18:59:17,156] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 18:59:17,156] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:17,157] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 18:59:17,159] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 18:59:17,160] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:17,403] INFO     root         Serving GET for favicon.ico
+[2022-01-05 18:59:17,404] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:27,034] INFO     root         Serving GET for index.html
+[2022-01-05 18:59:27,035] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:27,036] INFO     root         Sending /index.html - type text/html
+[2022-01-05 18:59:27,336] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 18:59:27,337] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:27,337] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 18:59:27,368] INFO     root         Serving GET for screen.css
+[2022-01-05 18:59:27,368] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:27,369] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 18:59:27,378] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 18:59:27,379] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:27,379] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 18:59:27,382] INFO     root         Serving GET for script/moment.js
+[2022-01-05 18:59:27,382] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:27,383] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 18:59:27,386] INFO     root         Serving GET for script/clock.js
+[2022-01-05 18:59:27,386] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:27,387] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 18:59:27,390] INFO     root         Serving GET for script/app.js
+[2022-01-05 18:59:27,390] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:27,391] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 18:59:27,731] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 18:59:27,731] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:27,731] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 18:59:27,752] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 18:59:27,752] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:27,991] INFO     root         Serving GET for favicon.ico
+[2022-01-05 18:59:27,992] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:54,524] INFO     root         Serving GET for index.html
+[2022-01-05 18:59:54,524] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:54,525] INFO     root         Sending /index.html - type text/html
+[2022-01-05 18:59:54,815] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 18:59:54,816] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:54,816] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 18:59:54,864] INFO     root         Serving GET for screen.css
+[2022-01-05 18:59:54,864] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:54,865] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 18:59:54,867] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 18:59:54,867] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:54,868] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 18:59:54,870] INFO     root         Serving GET for script/moment.js
+[2022-01-05 18:59:54,871] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:54,872] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 18:59:54,875] INFO     root         Serving GET for script/clock.js
+[2022-01-05 18:59:54,875] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:54,876] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 18:59:54,897] INFO     root         Serving GET for script/app.js
+[2022-01-05 18:59:54,898] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:54,898] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 18:59:55,236] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 18:59:55,236] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:55,236] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 18:59:55,241] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 18:59:55,241] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 18:59:55,501] INFO     root         Serving GET for favicon.ico
+[2022-01-05 18:59:55,501] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:02,133] INFO     root         Serving GET for index.html
+[2022-01-05 19:00:02,133] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:02,134] INFO     root         Sending /index.html - type text/html
+[2022-01-05 19:00:02,442] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 19:00:02,443] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:02,444] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 19:00:02,523] INFO     root         Serving GET for screen.css
+[2022-01-05 19:00:02,523] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:02,524] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 19:00:02,526] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 19:00:02,526] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:02,527] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 19:00:02,530] INFO     root         Serving GET for script/moment.js
+[2022-01-05 19:00:02,530] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:02,531] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 19:00:02,534] INFO     root         Serving GET for script/clock.js
+[2022-01-05 19:00:02,534] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:02,535] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 19:00:02,556] INFO     root         Serving GET for script/app.js
+[2022-01-05 19:00:02,557] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:02,558] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 19:00:02,919] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 19:00:02,920] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:02,920] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 19:00:02,941] INFO     root         Serving GET for favicon.ico
+[2022-01-05 19:00:02,941] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:03,183] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 19:00:03,183] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:16,774] INFO     root         Serving GET for index.html
+[2022-01-05 19:00:16,775] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:16,776] INFO     root         Sending /index.html - type text/html
+[2022-01-05 19:00:17,079] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 19:00:17,079] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:17,080] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 19:00:17,111] INFO     root         Serving GET for screen.css
+[2022-01-05 19:00:17,112] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:17,112] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 19:00:17,114] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 19:00:17,114] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:17,115] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 19:00:17,117] INFO     root         Serving GET for script/moment.js
+[2022-01-05 19:00:17,117] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:17,118] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 19:00:17,121] INFO     root         Serving GET for script/clock.js
+[2022-01-05 19:00:17,122] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:17,123] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 19:00:17,139] INFO     root         Serving GET for script/app.js
+[2022-01-05 19:00:17,139] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:17,140] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 19:00:17,472] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 19:00:17,472] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:17,473] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 19:00:17,478] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 19:00:17,479] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:00:17,739] INFO     root         Serving GET for favicon.ico
+[2022-01-05 19:00:17,739] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:01:40,639] INFO     root         Serving GET for index.html
+[2022-01-05 19:01:40,639] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:01:40,640] INFO     root         Sending /index.html - type text/html
+[2022-01-05 19:01:40,662] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 19:01:40,663] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:01:40,664] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 19:01:40,881] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 19:01:40,881] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:01:40,881] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 19:01:40,975] INFO     root         Serving GET for screen.css
+[2022-01-05 19:01:40,975] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:01:40,976] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 19:01:40,978] INFO     root         Serving GET for script/moment.js
+[2022-01-05 19:01:40,978] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:01:40,978] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 19:01:40,980] INFO     root         Serving GET for script/clock.js
+[2022-01-05 19:01:40,981] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:01:40,982] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 19:01:40,999] INFO     root         Serving GET for script/app.js
+[2022-01-05 19:01:41,000] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:01:41,001] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 19:01:41,316] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 19:01:41,317] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:01:41,318] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 19:01:41,330] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 19:01:41,331] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:01:41,567] INFO     root         Serving GET for favicon.ico
+[2022-01-05 19:01:41,568] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:05,343] INFO     root         Serving GET for index.html
+[2022-01-05 19:02:05,344] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:05,344] INFO     root         Sending /index.html - type text/html
+[2022-01-05 19:02:05,656] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 19:02:05,656] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:05,657] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 19:02:05,673] INFO     root         Serving GET for screen.css
+[2022-01-05 19:02:05,673] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:05,674] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 19:02:05,681] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 19:02:05,681] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:05,682] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 19:02:05,684] INFO     root         Serving GET for script/moment.js
+[2022-01-05 19:02:05,684] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:05,685] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 19:02:05,688] INFO     root         Serving GET for script/clock.js
+[2022-01-05 19:02:05,688] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:05,689] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 19:02:05,692] INFO     root         Serving GET for script/app.js
+[2022-01-05 19:02:05,693] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:05,694] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 19:02:06,036] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 19:02:06,036] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:06,037] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 19:02:06,046] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 19:02:06,047] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:06,300] INFO     root         Serving GET for favicon.ico
+[2022-01-05 19:02:06,301] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:16,263] INFO     root         Serving GET for index.html
+[2022-01-05 19:02:16,264] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:16,265] INFO     root         Sending /index.html - type text/html
+[2022-01-05 19:02:16,562] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 19:02:16,562] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:16,563] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 19:02:16,593] INFO     root         Serving GET for screen.css
+[2022-01-05 19:02:16,593] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:16,594] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 19:02:16,602] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 19:02:16,603] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:16,603] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 19:02:16,606] INFO     root         Serving GET for script/moment.js
+[2022-01-05 19:02:16,606] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:16,607] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 19:02:16,610] INFO     root         Serving GET for script/clock.js
+[2022-01-05 19:02:16,610] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:16,611] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 19:02:16,614] INFO     root         Serving GET for script/app.js
+[2022-01-05 19:02:16,614] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:16,615] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 19:02:16,967] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 19:02:16,968] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:16,968] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 19:02:16,987] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 19:02:16,988] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:02:17,214] INFO     root         Serving GET for favicon.ico
+[2022-01-05 19:02:17,214] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:03:32,171] INFO     root         Serving GET for index.html
+[2022-01-05 19:03:32,172] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:03:32,172] INFO     root         Sending /index.html - type text/html
+[2022-01-05 19:03:32,193] INFO     root         Serving GET for script/jquery.js
+[2022-01-05 19:03:32,194] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:03:32,195] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-05 19:03:32,431] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-05 19:03:32,431] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:03:32,431] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-05 19:03:32,512] INFO     root         Serving GET for screen.css
+[2022-01-05 19:03:32,512] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:03:32,513] INFO     root         Sending /screen.css - type text/css
+[2022-01-05 19:03:32,515] INFO     root         Serving GET for script/moment.js
+[2022-01-05 19:03:32,515] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:03:32,516] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-05 19:03:32,519] INFO     root         Serving GET for script/clock.js
+[2022-01-05 19:03:32,519] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:03:32,520] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-05 19:03:32,536] INFO     root         Serving GET for script/app.js
+[2022-01-05 19:03:32,536] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:03:32,537] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-05 19:03:32,857] INFO     root         Serving GET for img/bg-winter.jpg
+[2022-01-05 19:03:32,857] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:03:32,857] INFO     root         Sending /img/bg-winter.jpg - type image/jpg
+[2022-01-05 19:03:32,863] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-05 19:03:32,863] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-05 19:03:33,124] INFO     root         Serving GET for favicon.ico
+[2022-01-05 19:03:33,124] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:57:31,346] INFO     root         
+[2022-01-20 14:57:32,252] INFO     root         Starting web server...
+[2022-01-20 14:57:44,022] INFO     root         Serving GET for index.html
+[2022-01-20 14:57:44,022] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:57:44,023] INFO     root         Sending /index.html - type text/html
+[2022-01-20 14:57:44,056] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 14:57:44,057] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:57:44,057] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 14:57:44,274] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 14:57:44,274] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:57:44,275] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 14:57:44,370] INFO     root         Serving GET for screen.css
+[2022-01-20 14:57:44,370] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:57:44,371] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 14:57:44,378] INFO     root         Serving GET for script/moment.js
+[2022-01-20 14:57:44,378] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:57:44,378] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 14:57:44,421] INFO     root         Serving GET for script/clock.js
+[2022-01-20 14:57:44,421] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:57:44,422] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 14:57:44,424] INFO     root         Serving GET for script/app.js
+[2022-01-20 14:57:44,424] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:57:44,425] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 14:57:44,756] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 14:57:44,756] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:57:44,757] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 14:57:45,008] INFO     root         Serving GET for favicon.ico
+[2022-01-20 14:57:45,009] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:59:34,242] INFO     root         Serving GET for index.html
+[2022-01-20 14:59:34,243] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:59:34,243] INFO     root         Sending /index.html - type text/html
+[2022-01-20 14:59:34,261] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 14:59:34,261] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:59:34,262] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 14:59:34,508] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 14:59:34,508] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:59:34,509] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 14:59:34,571] INFO     root         Serving GET for screen.css
+[2022-01-20 14:59:34,571] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:59:34,572] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 14:59:34,574] INFO     root         Serving GET for script/moment.js
+[2022-01-20 14:59:34,574] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:59:34,574] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 14:59:34,576] INFO     root         Serving GET for script/clock.js
+[2022-01-20 14:59:34,577] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:59:34,577] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 14:59:34,593] INFO     root         Serving GET for script/app.js
+[2022-01-20 14:59:34,594] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:59:34,594] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 14:59:34,915] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 14:59:34,915] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 14:59:34,916] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 14:59:35,177] INFO     root         Serving GET for favicon.ico
+[2022-01-20 14:59:35,177] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:03,009] INFO     root         Serving GET for index.html
+[2022-01-20 15:00:03,009] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:03,010] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:00:03,319] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:00:03,320] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:03,320] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:00:03,335] INFO     root         Serving GET for screen.css
+[2022-01-20 15:00:03,336] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:03,336] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:00:03,339] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:00:03,339] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:03,340] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:00:03,343] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:00:03,343] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:03,344] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:00:03,347] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:00:03,347] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:03,348] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:00:03,362] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:00:03,363] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:03,364] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:00:03,678] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:00:03,678] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:03,679] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:00:03,943] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:00:03,943] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:19,453] INFO     root         Serving GET for index.html
+[2022-01-20 15:00:19,453] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:19,454] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:00:19,761] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:00:19,761] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:19,762] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:00:19,777] INFO     root         Serving GET for screen.css
+[2022-01-20 15:00:19,778] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:19,778] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:00:19,786] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:00:19,786] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:19,787] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:00:19,790] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:00:19,790] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:19,791] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:00:19,793] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:00:19,794] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:19,795] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:00:19,797] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:00:19,797] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:19,797] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:00:20,121] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:00:20,122] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:20,123] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:00:20,384] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:00:20,384] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:27,800] INFO     root         Serving GET for index.html
+[2022-01-20 15:00:27,800] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:27,801] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:00:28,110] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:00:28,110] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:28,111] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:00:28,126] INFO     root         Serving GET for screen.css
+[2022-01-20 15:00:28,126] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:28,127] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:00:28,135] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:00:28,135] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:28,136] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:00:28,139] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:00:28,139] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:28,140] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:00:28,142] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:00:28,142] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:28,143] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:00:28,145] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:00:28,145] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:28,146] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:00:28,468] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:00:28,468] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:00:28,469] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:00:28,730] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:00:28,731] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:34,154] INFO     root         Serving GET for index.html
+[2022-01-20 15:01:34,155] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:34,155] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:01:34,178] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:01:34,178] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:34,179] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:01:34,406] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:01:34,406] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:34,407] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:01:34,482] INFO     root         Serving GET for screen.css
+[2022-01-20 15:01:34,483] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:34,483] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:01:34,486] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:01:34,486] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:34,487] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:01:34,489] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:01:34,490] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:34,490] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:01:34,492] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:01:34,493] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:34,493] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:01:34,822] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:01:34,822] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:34,823] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:01:35,070] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:01:35,070] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:41,722] INFO     root         Serving GET for index.html
+[2022-01-20 15:01:41,722] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:41,723] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:01:42,033] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:01:42,033] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:42,034] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:01:42,050] INFO     root         Serving GET for screen.css
+[2022-01-20 15:01:42,051] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:42,052] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:01:42,058] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:01:42,059] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:42,059] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:01:42,062] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:01:42,062] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:42,063] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:01:42,065] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:01:42,065] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:42,066] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:01:42,069] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:01:42,069] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:42,070] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:01:42,393] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:01:42,393] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:42,394] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:01:42,656] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:01:42,656] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:57,752] INFO     root         Serving GET for index.html
+[2022-01-20 15:01:57,752] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:57,753] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:01:58,061] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:01:58,061] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:58,062] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:01:58,078] INFO     root         Serving GET for screen.css
+[2022-01-20 15:01:58,079] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:58,079] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:01:58,087] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:01:58,088] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:58,088] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:01:58,090] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:01:58,091] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:58,092] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:01:58,094] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:01:58,095] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:58,096] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:01:58,098] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:01:58,098] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:58,099] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:01:58,438] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:01:58,438] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:01:58,439] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:01:58,702] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:01:58,702] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:05,431] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:02:05,432] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:05,433] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:02:05,744] INFO     root         Serving GET for screen.css
+[2022-01-20 15:02:05,744] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:05,745] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:02:05,797] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:02:05,797] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:32,372] INFO     root         Serving GET for index.html
+[2022-01-20 15:02:32,373] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:32,374] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:02:32,390] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:02:32,391] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:32,391] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:02:32,634] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:02:32,635] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:32,635] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:02:32,711] INFO     root         Serving GET for screen.css
+[2022-01-20 15:02:32,711] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:32,712] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:02:32,720] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:02:32,721] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:32,721] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:02:32,724] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:02:32,724] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:32,725] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:02:32,727] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:02:32,727] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:32,728] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:02:33,038] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:02:33,038] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:33,039] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:02:33,054] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:02:33,055] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:33,299] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:02:33,300] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:54,201] INFO     root         Serving GET for index.html
+[2022-01-20 15:02:54,202] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:54,203] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:02:54,515] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:02:54,515] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:54,516] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:02:54,533] INFO     root         Serving GET for screen.css
+[2022-01-20 15:02:54,533] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:54,534] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:02:54,541] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:02:54,541] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:54,542] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:02:54,544] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:02:54,544] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:54,545] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:02:54,548] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:02:54,548] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:54,549] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:02:54,552] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:02:54,552] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:54,553] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:02:54,890] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:02:54,891] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:54,891] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:02:54,894] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:02:54,894] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:02:55,156] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:02:55,157] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:14,581] INFO     root         Serving GET for index.html
+[2022-01-20 15:03:14,581] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:14,582] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:03:14,881] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:03:14,881] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:14,882] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:03:14,915] INFO     root         Serving GET for screen.css
+[2022-01-20 15:03:14,915] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:14,916] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:03:14,923] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:03:14,923] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:14,924] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:03:14,926] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:03:14,926] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:14,927] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:03:14,929] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:03:14,930] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:14,931] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:03:14,933] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:03:14,934] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:14,935] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:03:15,273] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:03:15,274] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:15,274] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:03:15,276] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:03:15,276] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:15,535] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:03:15,536] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:44,073] INFO     root         Serving GET for index.html
+[2022-01-20 15:03:44,073] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:44,074] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:03:44,385] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:03:44,385] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:44,386] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:03:44,419] INFO     root         Serving GET for screen.css
+[2022-01-20 15:03:44,419] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:44,420] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:03:44,428] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:03:44,428] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:44,429] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:03:44,432] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:03:44,432] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:44,433] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:03:44,435] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:03:44,436] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:44,437] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:03:44,439] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:03:44,439] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:44,440] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:03:44,767] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:03:44,767] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:44,768] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:03:44,770] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:03:44,771] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:03:45,030] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:03:45,030] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:15,719] INFO     root         Serving GET for index.html
+[2022-01-20 15:04:15,719] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:15,720] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:04:16,021] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:04:16,021] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:16,022] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:04:16,053] INFO     root         Serving GET for screen.css
+[2022-01-20 15:04:16,054] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:16,054] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:04:16,061] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:04:16,061] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:16,062] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:04:16,064] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:04:16,064] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:16,065] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:04:16,068] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:04:16,068] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:16,069] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:04:16,072] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:04:16,072] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:16,073] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:04:16,414] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:04:16,415] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:16,415] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:04:16,418] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:04:16,418] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:16,679] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:04:16,679] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:32,734] INFO     root         Serving GET for index.html
+[2022-01-20 15:04:32,734] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:32,735] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:04:33,047] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:04:33,047] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:33,048] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:04:33,065] INFO     root         Serving GET for screen.css
+[2022-01-20 15:04:33,065] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:33,066] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:04:33,075] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:04:33,075] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:33,076] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:04:33,079] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:04:33,079] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:33,080] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:04:33,082] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:04:33,083] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:33,083] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:04:33,086] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:04:33,086] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:33,087] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:04:33,427] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:04:33,428] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:33,429] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:04:33,431] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:04:33,432] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:33,692] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:04:33,693] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:40,195] INFO     root         Serving GET for index.html
+[2022-01-20 15:04:40,195] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:40,196] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:04:40,511] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:04:40,511] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:40,512] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:04:40,528] INFO     root         Serving GET for screen.css
+[2022-01-20 15:04:40,528] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:40,529] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:04:40,536] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:04:40,537] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:40,537] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:04:40,539] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:04:40,540] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:40,540] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:04:40,543] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:04:40,543] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:40,544] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:04:40,546] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:04:40,547] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:40,547] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:04:40,889] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:04:40,890] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:40,890] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:04:40,892] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:04:40,893] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:41,137] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:04:41,137] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:53,841] INFO     root         Serving GET for index.html
+[2022-01-20 15:04:53,841] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:53,842] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:04:54,150] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:04:54,150] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:54,151] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:04:54,167] INFO     root         Serving GET for screen.css
+[2022-01-20 15:04:54,167] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:54,168] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:04:54,175] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:04:54,175] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:54,176] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:04:54,178] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:04:54,178] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:54,179] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:04:54,182] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:04:54,182] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:54,183] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:04:54,186] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:04:54,186] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:54,187] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:04:54,526] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:04:54,527] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:54,527] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:04:54,530] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:04:54,530] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:04:54,776] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:04:54,777] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:07,865] INFO     root         Serving GET for index.html
+[2022-01-20 15:05:07,865] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:07,866] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:05:08,177] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:05:08,177] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:08,178] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:05:08,194] INFO     root         Serving GET for screen.css
+[2022-01-20 15:05:08,194] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:08,194] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:05:08,202] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:05:08,202] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:08,203] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:05:08,204] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:05:08,205] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:08,205] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:05:08,208] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:05:08,209] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:08,209] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:05:08,211] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:05:08,212] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:08,212] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:05:08,554] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:05:08,555] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:08,556] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:05:08,558] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:05:08,558] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:08,803] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:05:08,803] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:31,429] INFO     root         Serving GET for index.html
+[2022-01-20 15:05:31,429] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:31,431] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:05:31,744] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:05:31,744] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:31,745] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:05:31,762] INFO     root         Serving GET for screen.css
+[2022-01-20 15:05:31,762] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:31,763] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:05:31,770] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:05:31,770] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:31,771] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:05:31,773] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:05:31,773] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:31,774] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:05:31,777] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:05:31,777] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:31,778] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:05:31,780] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:05:31,780] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:31,781] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:05:32,120] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:05:32,121] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:32,121] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:05:32,124] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:05:32,124] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:05:32,387] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:05:32,387] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:42,057] INFO     root         Serving GET for index.html
+[2022-01-20 15:08:42,058] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:42,058] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:08:42,089] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:08:42,090] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:42,090] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:08:42,321] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:08:42,321] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:42,322] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:08:42,401] INFO     root         Serving GET for screen.css
+[2022-01-20 15:08:42,401] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:42,402] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:08:42,408] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:08:42,409] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:42,409] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:08:42,412] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:08:42,413] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:42,413] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:08:42,416] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:08:42,416] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:42,416] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:08:42,728] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:08:42,729] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:42,729] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:08:42,740] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:08:42,740] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:43,041] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:08:43,042] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:57,115] INFO     root         Serving GET for index.html
+[2022-01-20 15:08:57,116] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:57,117] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:08:57,140] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:08:57,141] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:57,141] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:08:57,380] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:08:57,380] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:57,381] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:08:57,461] INFO     root         Serving GET for screen.css
+[2022-01-20 15:08:57,461] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:57,462] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:08:57,463] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:08:57,464] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:57,464] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:08:57,466] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:08:57,467] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:57,467] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:08:57,470] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:08:57,470] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:57,471] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:08:57,788] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:08:57,789] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:57,789] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:08:57,797] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:08:57,797] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:08:58,054] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:08:58,054] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:09:45,362] INFO     root         Serving GET for index.html
+[2022-01-20 15:09:45,362] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:09:45,363] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:09:45,667] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:09:45,667] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:09:45,668] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:09:45,700] INFO     root         Serving GET for screen.css
+[2022-01-20 15:09:45,700] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:09:45,701] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:09:45,708] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:09:45,708] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:09:45,709] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:09:45,711] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:09:45,711] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:09:45,712] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:09:45,715] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:09:45,715] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:09:45,716] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:09:45,718] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:09:45,719] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:09:45,719] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:09:46,057] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:09:46,057] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:09:46,058] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:09:46,060] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:09:46,061] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:09:46,322] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:09:46,323] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:09,137] INFO     root         Serving GET for index.html
+[2022-01-20 15:10:09,138] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:09,138] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:10:09,441] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:10:09,441] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:09,442] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:10:09,474] INFO     root         Serving GET for screen.css
+[2022-01-20 15:10:09,474] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:09,475] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:10:09,482] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:10:09,482] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:09,483] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:10:09,486] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:10:09,486] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:09,487] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:10:09,489] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:10:09,490] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:09,490] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:10:09,493] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:10:09,493] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:09,494] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:10:09,830] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:10:09,831] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:09,831] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:10:09,834] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:10:09,834] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:10,096] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:10:10,097] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:24,909] INFO     root         Serving GET for index.html
+[2022-01-20 15:10:24,910] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:24,911] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:10:25,210] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:10:25,210] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:25,211] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:10:25,244] INFO     root         Serving GET for screen.css
+[2022-01-20 15:10:25,244] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:25,245] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:10:25,253] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:10:25,253] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:25,254] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:10:25,256] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:10:25,256] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:25,257] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:10:25,259] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:10:25,259] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:25,260] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:10:25,263] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:10:25,263] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:25,264] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:10:25,599] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:10:25,600] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:25,600] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:10:25,602] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:10:25,603] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:25,862] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:10:25,862] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:42,758] INFO     root         Serving GET for index.html
+[2022-01-20 15:10:42,758] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:42,759] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:10:43,062] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:10:43,062] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:43,063] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:10:43,095] INFO     root         Serving GET for screen.css
+[2022-01-20 15:10:43,096] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:43,096] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:10:43,103] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:10:43,103] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:43,104] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:10:43,106] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:10:43,107] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:43,108] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:10:43,111] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:10:43,111] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:43,112] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:10:43,114] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:10:43,114] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:43,115] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:10:43,453] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:10:43,454] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:43,454] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:10:43,456] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:10:43,457] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:10:43,715] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:10:43,716] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:02,498] INFO     root         Serving GET for index.html
+[2022-01-20 15:11:02,499] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:02,499] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:11:02,800] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:11:02,800] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:02,801] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:11:02,833] INFO     root         Serving GET for screen.css
+[2022-01-20 15:11:02,833] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:02,834] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:11:02,840] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:11:02,841] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:02,841] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:11:02,844] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:11:02,844] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:02,845] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:11:02,848] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:11:02,848] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:02,849] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:11:02,852] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:11:02,852] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:02,853] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:11:03,190] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:11:03,191] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:03,191] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:11:03,194] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:11:03,194] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:03,441] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:11:03,441] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:51,042] INFO     root         Serving GET for index.html
+[2022-01-20 15:11:51,044] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:51,045] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:11:51,347] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:11:51,347] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:51,348] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:11:51,381] INFO     root         Serving GET for screen.css
+[2022-01-20 15:11:51,381] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:51,382] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:11:51,389] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:11:51,389] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:51,390] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:11:51,392] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:11:51,393] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:51,394] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:11:51,396] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:11:51,397] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:51,397] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:11:51,400] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:11:51,400] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:51,401] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:11:51,740] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:11:51,741] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:51,741] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:11:51,744] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:11:51,744] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:11:52,005] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:11:52,006] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:12:05,778] INFO     root         Serving GET for index.html
+[2022-01-20 15:12:05,779] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:12:05,780] INFO     root         Sending /index.html - type text/html
+[2022-01-20 15:12:06,085] INFO     root         Serving GET for font-awesome.min.css
+[2022-01-20 15:12:06,085] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:12:06,086] INFO     root         Sending /font-awesome.min.css - type text/css
+[2022-01-20 15:12:06,101] INFO     root         Serving GET for screen.css
+[2022-01-20 15:12:06,102] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:12:06,102] INFO     root         Sending /screen.css - type text/css
+[2022-01-20 15:12:06,111] INFO     root         Serving GET for script/jquery.js
+[2022-01-20 15:12:06,111] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:12:06,112] INFO     root         Sending /script/jquery.js - type application/javascript
+[2022-01-20 15:12:06,114] INFO     root         Serving GET for script/moment.js
+[2022-01-20 15:12:06,114] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:12:06,115] INFO     root         Sending /script/moment.js - type application/javascript
+[2022-01-20 15:12:06,118] INFO     root         Serving GET for script/clock.js
+[2022-01-20 15:12:06,119] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:12:06,119] INFO     root         Sending /script/clock.js - type application/javascript
+[2022-01-20 15:12:06,121] INFO     root         Serving GET for script/app.js
+[2022-01-20 15:12:06,122] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:12:06,122] INFO     root         Sending /script/app.js - type application/javascript
+[2022-01-20 15:12:06,460] INFO     root         Serving GET for img/bg-winter-2.jpg
+[2022-01-20 15:12:06,460] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:12:06,461] INFO     root         Sending /img/bg-winter-2.jpg - type image/jpg
+[2022-01-20 15:12:06,463] INFO     root         Serving GET for script/moment.min.js.map
+[2022-01-20 15:12:06,463] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
+[2022-01-20 15:12:06,724] INFO     root         Serving GET for favicon.ico
+[2022-01-20 15:12:06,725] INFO     root         Running in e:\Development\git\projects\personal\piclock\src\python/../web/
